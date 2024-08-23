@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Manfred
+- 👋 Hi, I’m Manfred @mfredob
 - 👀 I’m interested in ... Learning more about Github and Web programing
 - 🌱 I’m currently not enrolled in any Web development.. am doing some research and any input would be greatly appreaciated!
 - 💞️ I’m looking to collaborate on ... learning and udnerstanding furhter Web programing
