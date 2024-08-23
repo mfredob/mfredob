@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Manfred @mfredob
 - 👀 I’m interested in ... Learning more about Github and Web programing
 - 🌱 I’m currently not enrolled in any Web development.. am doing some research and any input would be greatly appreaciated!
-- 💞️ I’m looking to collaborate on ... learning and udnerstanding furhter Web programing
+- 💞️ I’m looking to collaborate on ... learning and understanding furhter Web programing
 - 📫 How to reach me ... message me privately and we can connect via email.
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I am a consultant in HR.
